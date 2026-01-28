@@ -3,7 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom Scrollbar Styles to match the previous inline styles */
+/* Custom Scrollbar Styles */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
